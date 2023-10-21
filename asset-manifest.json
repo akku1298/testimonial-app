@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testimonial-app/static/css/main.80958aa7.css",
+    "main.js": "/testimonial-app/static/js/main.7dd36db7.js",
+    "index.html": "/testimonial-app/index.html",
+    "main.80958aa7.css.map": "/testimonial-app/static/css/main.80958aa7.css.map",
+    "main.7dd36db7.js.map": "/testimonial-app/static/js/main.7dd36db7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80958aa7.css",
+    "static/js/main.7dd36db7.js"
+  ]
+}
